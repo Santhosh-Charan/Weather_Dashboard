@@ -1,0 +1,9 @@
+To be installed:
+streamlit
+requests
+pandas
+seaborn
+matplotlib
+
+To run the main file:
+go to command promt, redirect to correct file path where the main file is exits(weather_dashboard.py) and then run this command: streamlit run weather_dashboard.py
