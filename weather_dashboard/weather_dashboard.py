@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-API_KEY = "0e84860f7129b9c684a2a0bb13a6414c"
+API_KEY = "YOUR_API_KEYS"
 
 @st.cache_data
 def fetch_weather(city):
